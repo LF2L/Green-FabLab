@@ -78,9 +78,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="688.05308"
-     inkscape:cy="447.74938"
+     inkscape:zoom="1.4"
+     inkscape:cx="619.37121"
+     inkscape:cy="367.79159"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -428,7 +428,7 @@
          y="154.40964"
          x="118.2057">Automatic</tspan></text>
     <g
-       transform="matrix(0.17523117,0,0,0.13553874,-280.94538,150.25956)"
+       transform="matrix(0.17523117,0,0,0.13553874,-302.11206,150.25956)"
        id="g4915-6-4-0">
       <g
          id="g4917-1-1-3"
@@ -445,30 +445,65 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.61346245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26533654"
-       x="226.08771"
-       y="141.23509"
-       id="text295-2-9-0"
-       transform="scale(0.66197239,1.510637)"><tspan
-         x="226.08771"
-         y="141.23509"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         id="tspan519-2">Flow rate : gr/min</tspan><tspan
-         x="226.08771"
-         y="154.50192"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         id="tspan568">Trustworthy : X gr/min</tspan><tspan
-         x="226.08771"
-         y="167.76874"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         id="tspan570">X1 ± 𝛌</tspan><tspan
-         x="226.08771"
-         y="181.03557"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         id="tspan572">X = instruction</tspan><tspan
-         x="226.08771"
-         y="194.3024"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         id="tspan574">𝛌 = measure</tspan></text>
+       style="font-style:normal;font-weight:normal;font-size:11.82998657px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29574966"
+       x="172.86186"
+       y="132.62054"
+       id="text295-3-9"
+       transform="scale(0.74960175,1.3340417)"><tspan
+         x="172.86186"
+         y="132.62054"
+         style="font-size:7.14958572px;stroke-width:0.29574966"
+         id="tspan521-1">Feeding the </tspan><tspan
+         x="172.86186"
+         y="147.40802"
+         style="font-size:7.14958572px;stroke-width:0.29574966"
+         id="tspan564">extruder </tspan></text>
+    <g
+       transform="matrix(0.17642976,0,0,0.37176527,-252.4981,121.65242)"
+       id="g4915-6-3">
+      <g
+         id="g4917-1-6"
+         transform="matrix(1.1329984,0,0,1.9184666,1670.7636,-1652.9798)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4923-4-8"
+           width="246.25984"
+           height="62.007874"
+           x="684.56976"
+           y="927.81165"
+           ry="14.240965" />
+      </g>
+    </g>
+    <text
+       transform="scale(1.2065584,0.82880364)"
+       id="text295-1"
+       y="209.61882"
+       x="153.19064"
+       style="font-style:normal;font-weight:normal;font-size:6.62521935px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16563049"
+       xml:space="preserve"><tspan
+         id="tspan433-4"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="209.61882"
+         x="153.19064">User Information </tspan><tspan
+         id="tspan637"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="217.90034"
+         x="153.19064">Storage weight</tspan><tspan
+         id="tspan639"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="226.18187"
+         x="153.19064">Notice</tspan><tspan
+         id="tspan641"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="234.46339"
+         x="153.19064">On/Off</tspan><tspan
+         id="tspan643"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="242.74489"
+         x="153.19064">Coil weight</tspan><tspan
+         id="tspan645"
+         style="font-size:4.00402546px;stroke-width:0.16563049"
+         y="251.02637"
+         x="153.19064">Flow rate</tspan></text>
   </g>
 </svg>
