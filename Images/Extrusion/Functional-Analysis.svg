@@ -20,58 +20,6 @@
      id="defs323">
     <marker
        style="overflow:visible"
-       id="Arrow1Lend-0-5-1-9-2"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path4448-01-6-91-1-8" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend-0-5-1-9-7"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path4448-01-6-91-1-2" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend-0-5-1-9-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path4448-01-6-91-1-0" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lend-0-5-1-9"
-       refX="0"
-       refY="0"
-       orient="auto">
-      <path
-         inkscape:connector-curvature="0"
-         transform="matrix(-0.8,0,0,-0.8,-10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 Z"
-         id="path4448-01-6-91-1" />
-    </marker>
-    <marker
-       style="overflow:visible"
        id="Arrow1Lend-0-5-1"
        refX="0"
        refY="0"
@@ -162,7 +110,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -364,29 +312,29 @@
          x="159.31937"
          y="169.46844">Inform</tspan></text>
     <text
-       transform="scale(0.66197244,1.5106369)"
+       transform="scale(0.72429694,1.3806492)"
        id="text295"
-       y="116.79694"
-       x="15.250992"
-       style="font-style:normal;font-weight:normal;font-size:10.61346245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26533654"
+       y="126.91516"
+       x="13.93867"
+       style="font-style:normal;font-weight:normal;font-size:9.70019245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26533654"
        xml:space="preserve"><tspan
          id="tspan429"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         y="116.79694"
-         x="15.250992">Virgin or Recycled </tspan><tspan
+         style="font-size:5.86242008px;stroke-width:0.26533654"
+         y="126.91516"
+         x="13.93867">Virgin or Recycled </tspan><tspan
          id="tspan433"
-         style="font-size:6.41436529px;stroke-width:0.26533654"
-         y="130.06375"
-         x="15.250992">Plastic</tspan></text>
+         style="font-size:5.86242008px;stroke-width:0.26533654"
+         y="139.04036"
+         x="13.93867">Plastic</tspan></text>
     <text
        transform="scale(1.1200248,0.89283738)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="207.3179"
-       y="166.72005"
+       x="193.1441"
+       y="166.29671"
        id="text8553-1-5"><tspan
-         x="207.3179"
-         y="166.72005"
+         x="193.1441"
+         y="166.29671"
          id="tspan8555-4-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.9294095px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.25197855px">Physical elements</tspan></text>
     <text
@@ -568,19 +516,19 @@
        id="rect4811-1-56"
        width="44.330311"
        height="14.011391"
-       x="253.01004"
-       y="95.721954"
+       x="242.04874"
+       y="96.09993"
        ry="3.2179091" />
     <text
        transform="scale(1.1200248,0.89283738)"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855"
-       x="230.50777"
+       x="230.17029"
        y="116.9241"
        id="text4813-0-2"><tspan
          style="font-size:7.55935621px;line-height:1.25;stroke-width:0.25197855"
          id="tspan4815-5-4"
-         x="230.50777"
+         x="230.17029"
          y="116.9241">Reel</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.16966759;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-0-5-1-9-4)"
