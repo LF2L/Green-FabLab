@@ -381,5 +381,51 @@
          y="272.97623"
          id="tspan8555-4-6-0-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.9294095px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.25197855px">Indicators</tspan></text>
+    <g
+       transform="matrix(0.17523117,0,0,0.13553874,-352.36026,150.12014)"
+       id="g4915-6-4">
+      <g
+         id="g4917-1-1"
+         transform="matrix(1.0806553,0,0,3.7214783,1706.9004,-3324.7427)">
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:6, 6;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4923-4-5"
+           width="246.25984"
+           height="62.007874"
+           x="684.56976"
+           y="927.81165"
+           ry="14.240965" />
+      </g>
+    </g>
+    <text
+       transform="scale(0.66197239,1.510637)"
+       id="text295-3"
+       y="115.86742"
+       x="119.14381"
+       style="font-style:normal;font-weight:normal;font-size:10.61346245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26533654"
+       xml:space="preserve"><tspan
+         id="tspan433-1"
+         style="font-size:6.41436529px;stroke-width:0.26533654"
+         y="115.86742"
+         x="119.14381">Guide Plastic to the </tspan><tspan
+         id="tspan521"
+         style="font-size:6.41436529px;stroke-width:0.26533654"
+         y="129.13423"
+         x="119.14381">extruder </tspan></text>
+    <text
+       transform="scale(0.66197239,1.510637)"
+       id="text295-2-9"
+       y="141.14281"
+       x="118.2057"
+       style="font-style:normal;font-weight:normal;font-size:10.61346245px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26533654"
+       xml:space="preserve"><tspan
+         id="tspan462-6"
+         style="font-size:6.41436529px;stroke-width:0.26533654"
+         y="141.14281"
+         x="118.2057">Space</tspan><tspan
+         id="tspan519"
+         style="font-size:6.41436529px;stroke-width:0.26533654"
+         y="154.40964"
+         x="118.2057">Automatic</tspan></text>
   </g>
 </svg>
