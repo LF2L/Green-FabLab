@@ -221,5 +221,97 @@
        d="m 238.93376,117.35235 h 19.44991"
        id="path5017-6-9-1"
        inkscape:connector-curvature="0" />
+    <path
+       id="path986"
+       d="m 128.45672,164.36005 v 0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.23622988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.37796783;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4811-1-9-8"
+       width="44.330311"
+       height="14.011391"
+       x="67.746216"
+       y="157.84857"
+       ry="3.2179091" />
+    <text
+       transform="scale(1.1200248,0.89283738)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855"
+       x="67.833275"
+       y="187.53342"
+       id="text4813-0-7-2"><tspan
+         style="font-size:7.55935621px;line-height:1.25;stroke-width:0.25197855"
+         id="tspan4815-5-9-0"
+         x="67.833275"
+         y="187.53342">Forward</tspan></text>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.37796783;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4811-1-9-8-8"
+       width="44.330311"
+       height="14.011391"
+       x="15.269592"
+       y="157.5432"
+       ry="3.2179091" />
+    <text
+       transform="scale(1.1200248,0.89283738)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855"
+       x="20.980173"
+       y="187.19142"
+       id="text4813-0-7-2-4"><tspan
+         style="font-size:7.55935621px;line-height:1.25;stroke-width:0.25197855"
+         id="tspan4815-5-9-0-5"
+         x="20.980173"
+         y="187.19142">Stockage</tspan></text>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.37796783;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4811-1-9-8-5"
+       width="44.330311"
+       height="14.011391"
+       x="120.98895"
+       y="157.65971"
+       ry="3.2179091" />
+    <text
+       transform="scale(1.1200248,0.89283738)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855"
+       x="115.37038"
+       y="187.32188"
+       id="text4813-0-7-2-1"><tspan
+         style="font-size:7.55935621px;line-height:1.25;stroke-width:0.25197855"
+         id="tspan4815-5-9-0-1"
+         x="115.37038"
+         y="187.32188">Support</tspan></text>
+    <rect
+       style="fill:#00ffff;fill-opacity:1;stroke:#000000;stroke-width:0.37796783;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4811-1-9-8-80"
+       width="44.330311"
+       height="14.011391"
+       x="173.84863"
+       y="157.84857"
+       ry="3.2179091" />
+    <text
+       transform="scale(1.1200248,0.89283738)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:'Baskerville Old Face';-inkscape-font-specification:'Baskerville Old Face';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855"
+       x="162.56549"
+       y="187.53345"
+       id="text4813-0-7-2-0"><tspan
+         style="font-size:7.55935621px;line-height:1.25;stroke-width:0.25197855"
+         id="tspan4815-5-9-0-6"
+         x="162.56549"
+         y="187.53345">Inform</tspan></text>
+    <text
+       transform="scale(1.1200248,0.89283738)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.02374244px;line-height:0%;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25197855px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="196.39023"
+       y="184.36171"
+       id="text8553-1-5"><tspan
+         x="196.39023"
+         y="184.36171"
+         id="tspan8555-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.9294095px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia Bold';stroke-width:0.25197855px">Physical elements</tspan></text>
   </g>
 </svg>
